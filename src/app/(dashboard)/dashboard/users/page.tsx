@@ -1,6 +1,8 @@
 const Users = () => {
   return (
-    <div>Users page</div>
+    <>
+      <div>Users page</div>
+    </>
   )
 }
 
