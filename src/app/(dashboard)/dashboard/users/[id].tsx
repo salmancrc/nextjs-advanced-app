@@ -1,7 +1,7 @@
 const user = () => {
   return (
     <>
-      <div>user 1</div>
+      <div>user [id]</div>
     </>
   )
 }
